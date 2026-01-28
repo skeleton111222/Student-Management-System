@@ -61,7 +61,7 @@ cd Student-Management-System
 ```
 3 Compile the program using the following command:
 ```
-gcc student.c -o student
+gcc Students.c -o student
 ```
 4 After successful compilation, run the program using:
 ```
@@ -74,7 +74,7 @@ The menu-driven Student Management System will start and allow you to manage stu
 ## File Structure
 ```
 Student-Management-System/  
-├── Student.c        # Main source code
+├── Students.c        # Main source code
 ├── student.txt      # Stores student records (auto-created not uploaded)  
 ├── temp.txt         # Temporary file used during delete operations  (not uploaded)
 └── README.md        # Project documentation
