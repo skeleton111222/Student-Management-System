@@ -55,11 +55,15 @@ README.md   - Project documentation
 ```
 git clone https://github.com/skeleton111222/Student-Management-System
 ```
-2 Compile the program using the following command:
+2 Redirect to file
+```
+cd Student-Management-System
+```
+3 Compile the program using the following command:
 ```
 gcc student.c -o student
 ```
-3 After successful compilation, run the program using:
+4 After successful compilation, run the program using:
 ```
 ./student
 ```
