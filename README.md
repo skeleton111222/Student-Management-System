@@ -55,7 +55,7 @@ README.md   - Project documentation
 ```
 git clone https://github.com/skeleton111222/Student-Management-System
 ```
-2 Redirect to file
+2 Redirect to folder
 ```
 cd Student-Management-System
 ```
